@@ -29,17 +29,19 @@ Cara ini mengimpor seluruh library dengan nama lengkapnya. Untuk menggunakan fun
 ```python
 from numpy import array
 ```
-Dengan cara ini, kamu mengimpor hanya fungsi atau objek tertentu dari library. Kamu bisa langsung menggunakan fungsi tersebut tanpa perlu menyebutkan nama library, seperti `array()`.
+Cara ini  mengimpor hanya fungsi atau objek tertentu dari library. Kamu bisa langsung menggunakan fungsi tersebut tanpa perlu menyebutkan nama library, seperti `array()`.
 
 ### 3. Menggunakan `import ... as`
 ```python
 import numpy as np
 ```
-Dengan cara ini, kamu mengimpor library dan memberinya alias, sehingga lebih mudah digunakan. Misalnya, kamu bisa menggunakan `np.array()` alih-alih `numpy.array()`.
+Cara ini mengimpor library dan memberinya alias, sehingga lebih mudah digunakan. Misalnya, kamu bisa menggunakan `np.array()` alih-alih `numpy.array()`.
 
 Jika kamu belum menginstal library yang diperlukan, kamu bisa menginstalnya terlebih dahulu menggunakan `pip`:
 ```bash
 pip install nama-library
+# untuk python 3:
+pip3 install nama-library
 ```
 
 ## Kontribusi

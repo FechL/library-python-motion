@@ -6,11 +6,6 @@
 - Mengirim atau menerima data sensor dan kendali
 - Membangun jembatan antara program Python dan hardware robot
 
-## Instalasi
-```bash
-pip install pyserial
-```
-
 ## Contoh Dasar: Kirim Data ke Arduino
 ```python
 import serial

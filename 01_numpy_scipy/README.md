@@ -59,5 +59,5 @@ plt.show()
 | Filtering sinyal sensor      |         | ✅ (filter, FFT)  |
 | Interpolasi data gerakan     |         | ✅ (interp1d dll) |
 
- | [🏠 Menu Utama](/) | [▶️ Next: 01 matplotlib](/02_matplotlib/) |
+ | [🏠 Menu Utama](/) | [▶️ Next: 02 matplotlib](/02_matplotlib/) |
  | ----------------- | ---------------------------------------- |
